@@ -1,7 +1,7 @@
 # Hi, I’m Swapnil 👋
 Python Backend & AI Developer | B.Tech in AI & Data Science | Ex-Python Intern @Enfocar IT Solutions
 
-I build scalable Python backend systems with AI-powered features like chatbots, recommendation engines, and intelligent automation. I enjoy solving real-world problems using Python, FastAPI, and modern AI frameworks.
+I build scalable Python backend systems with AI-powered features like chatbots, RAG pipelines and intelligent automation. I enjoy solving real-world problems using Python, FastAPI, and modern AI frameworks.
 
 ---
 
@@ -44,7 +44,7 @@ I build scalable Python backend systems with AI-powered features like chatbots, 
 
 ## 🚀 Projects
 
-**[AI-Powered Interview Preparation Platform](https://github.com/SWAPNIL-013/ai-interview-platform)**  
+**[AI-Powered Interview Preparation Platform]**  
 <p>
 <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
 <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat" />
@@ -59,5 +59,5 @@ I build scalable Python backend systems with AI-powered features like chatbots, 
 
 ## 📫 Connect with me
 - Email: [sheteswapnil13@gmail.com](mailto:sheteswapnil13@gmail.com)  
-- LinkedIn: [Swapnil Shete](https://www.linkedin.com/in/swapnilshete13)  
+- LinkedIn: [Swapnil's LinkedIn](https://www.linkedin.com/in/swapnilshete13)  
 - GitHub: [SWAPNIL-013](https://github.com/SWAPNIL-013/)
