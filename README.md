@@ -30,7 +30,7 @@ Passionate about building AI-powered applications and scalable backend solutions
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)  
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat)  
+
 
 ---
 
