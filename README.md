@@ -1,7 +1,7 @@
 # Hi, I’m Swapnil 👋
 Python Backend & AI Developer | B.Tech in AI & Data Science | Ex-Python Intern @Enfocar IT Solutions
 
-I build scalable Python backend systems with AI-powered features like chatbots, RAG pipelines and intelligent automation. I enjoy solving real-world problems using Python, FastAPI, and modern AI frameworks.
+I build scalable Python backend systems with AI-powered features like chatbots, RAG pipelines, and intelligent agents. I enjoy solving real-world problems using Python, FastAPI, and modern AI frameworks.
 
 ---
 
@@ -42,9 +42,26 @@ I build scalable Python backend systems with AI-powered features like chatbots, 
 
 ---
 
+## 💻 Internship Project
+
+**[Resume Screening Platform @ Enfocar IT Solutions](https://github.com/SWAPNIL-013/resume_scanner)**  
+<p>
+<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat" />
+<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb" />
+</p>
+- Developed an end-to-end resume screening platform using Python, FastAPI, and Streamlit  
+- Built a resume parsing pipeline to extract text from PDF and DOC files using PyMuPDF and python-docx  
+- Converted resumes and job descriptions into structured JSON for automated matching  using LLM
+- Implemented JD–resume scoring logic and exported results to Excel and MongoDB Atlas  
+- Increased resume processing throughput via AsyncIO and ThreadPoolExecutor  
+
+---
+
 ## 🚀 Projects
 
-**[AI-Powered Interview Preparation Platform]**  
+**[AI-Powered Interview Preparation Platform](https://github.com/SWAPNIL-013/ai-interview-platform)**  
 <p>
 <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
 <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat" />
