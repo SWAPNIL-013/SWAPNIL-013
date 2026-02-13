@@ -7,23 +7,30 @@ Passionate about building AI-powered applications and scalable backend solutions
 
 ## 🛠️ Skills
 
-**Backend & Python:** Python, FastAPI, REST APIs, Pydantic, AsyncIO, Threading  
-**AI & LLMs:** LangChain, LlamaIndex, RAG Pipelines, Agentic AI  
-**Databases:** MongoDB, PostgreSQL, MySQL, FAISS, ChromaDB, Qdrant  
-**Tools & Others:** Docker, Git, Postman, Streamlit, VS Code  
+**Backend & Python:**  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat)  
+![REST API](https://img.shields.io/badge/-REST_API-0052CC?style=flat)
 
----
+**AI & LLMs:**  
+![LangChain](https://img.shields.io/badge/-LangChain-FF9900?style=flat)  
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-6F42C1?style=flat)  
+![Agentic AI](https://img.shields.io/badge/-Agentic_AI-FF5733?style=flat)
 
-## 💼 Internship Experience
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  
+![FAISS](https://img.shields.io/badge/-FAISS-FF5733?style=flat)  
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-2E8B57?style=flat)  
+![Qdrant](https://img.shields.io/badge/-Qdrant-FF4500?style=flat)  
 
-**Python Developer Intern @ Enfocar IT Solutions** (Aug 2025 – Dec 2025)  
-- Built an end-to-end resume screening platform using Python, FastAPI, and Streamlit  
-- Designed RESTful APIs for resume upload, parsing, scoring, and export  
-- Extracted text from PDFs & DOC files using PyMuPDF and python-docx  
-- Converted resumes and JDs into structured JSON with LLMs for automated matching  
-- Implemented secure user authentication with JWT and role-based access control  
-- Increased resume processing throughput via AsyncIO and ThreadPoolExecutor  
-- Developed an admin panel to manage user registrations and approvals  
+**Tools & Others:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)  
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode)  
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat)  
 
 ---
 
@@ -32,29 +39,4 @@ Passionate about building AI-powered applications and scalable backend solutions
 **AI-Powered Interview Preparation Platform**  
 - Resume screening, English communication assessment, and technical evaluation services  
 - Implemented RAG pipeline using LangChain and FAISS vector embeddings  
-- Designed modular backend services in Python & FastAPI to handle multiple evaluation workflows  
-
----
-
-## 🎓 Education
-
-**Vishwakarma Institute of Information Technology, Pune** (2022 – 2026)  
-B.Tech in Artificial Intelligence & Data Science | CGPA: 8.25  
-
-**Babuji Avhad Mahavidyalaya, Pathardi** (2021 – 2022)  
-12th Grade (PCM) – 88.17%  
-
-**Shri Tilok Jain Vidyalaya, Pathardi** (2019 – 2020)  
-10th Grade – 95%  
-
----
-
-## 📜 Certifications
-
-- FastAPI – The Complete Course (2025)  
-
----
-
-## 📊 GitHub Stats
-
-![Swapnil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwapnilShete&show_icons=true&theme=radical)
+- Designed modular backend services in Python & FastAPI to handle multiple evaluation workflows
