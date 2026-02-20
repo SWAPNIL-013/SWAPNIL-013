@@ -72,6 +72,10 @@ I build scalable Python backend systems with AI-powered features like chatbots, 
 - Implemented RAG pipeline using LangChain and FAISS vector embeddings  
 - Designed modular backend services in Python & FastAPI to handle multiple evaluation workflows
 
+
+**[Job Market Analysis Platform](https://github.com/SWAPNIL-013/)**  
+<p> <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" /> <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat" /> <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit" /> <img src="https://img.shields.io/badge/-SQLAlchemy-005100?style=flat&logo=postgresql" /> <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite" /> <img src="https://img.shields.io/badge/-Prophet-FF9900?style=flat" /> <img src="https://img.shields.io/badge/-Plotly-FF5733?style=flat&logo=plotly" /> <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai" /> <img src="https://img.shields.io/badge/-GoogleGemini-4285F4?style=flat&logo=google" /> </p> - Built a **full ETL pipeline** to fetch, ingest, process, and clean job postings into a structured database. - Implemented **LLM-based skill extraction** using OpenAI GPT-4o-mini and Google Gemini to identify in-demand skills from job descriptions. - Aggregated weekly skill demand, computed salary statistics, and **forecasted trends** using Prophet. - Developed **interactive dashboards** and analytics reports with Streamlit and Plotly for skill demand, job postings, and company insights. - Designed **modular backend services** with Python, FastAPI, and SQLAlchemy for flexible querying and data exploration.
+
 ---
 
 ## 📫 Connect with me
