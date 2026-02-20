@@ -51,11 +51,11 @@ I build scalable Python backend systems with AI-powered features like chatbots, 
 <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat" />
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb" />
 </p>
-- Developed an end-to-end resume screening platform using Python, FastAPI, and Streamlit  
-- Built a resume parsing pipeline to extract text from PDF and DOC files using PyMuPDF and python-docx  
-- Converted resumes and job descriptions into structured JSON for automated matching  using LLM
-- Implemented JD–resume scoring logic and exported results to Excel and MongoDB Atlas  
-- Increased resume processing throughput via AsyncIO and ThreadPoolExecutor  
+<p>Developed an end-to-end resume screening platform using Python, FastAPI, and Streamlit  </p> 
+<p> Built a resume parsing pipeline to extract text from PDF and DOC files using PyMuPDF and python-docx  </p>
+<p>Converted resumes and job descriptions into structured JSON for automated matching  using LLM</p>
+<p>Implemented JD–resume scoring logic and exported results to Excel and MongoDB Atlas  </p>
+<p>Increased resume processing throughput via AsyncIO and ThreadPoolExecutor  </p>
 
 ---
 
@@ -68,10 +68,9 @@ I build scalable Python backend systems with AI-powered features like chatbots, 
 <img src="https://img.shields.io/badge/-LangChain-FF9900?style=flat" />
 <img src="https://img.shields.io/badge/-FAISS-FF5733?style=flat" />
 </p>
-<p>- Resume screening, English communication assessment, and technical evaluation services  </p>
-
-- Implemented RAG pipeline using LangChain and FAISS vector embeddings  
-- Designed modular backend services in Python & FastAPI to handle multiple evaluation workflows  
+<p>- Resume screening, English communication assessment, and technical evaluation services</p>
+<p>- Implemented RAG pipeline using LangChain and FAISS vector embeddings</p>
+<p>- Designed modular backend services in Python & FastAPI to handle multiple evaluation workflows</p>
 
 ---
 
@@ -87,11 +86,11 @@ I build scalable Python backend systems with AI-powered features like chatbots, 
 <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai" /> 
 <img src="https://img.shields.io/badge/-GoogleGemini-4285F4?style=flat&logo=google" /> 
 </p>
-- Built a full ETL pipeline to fetch, ingest, process, and clean job postings into a structured database  
-- Implemented LLM-based skill extraction using OpenAI GPT-4o-mini and Google Gemini to identify in-demand skills from job descriptions  
-- Aggregated weekly skill demand, computed salary statistics, and **forecasted trends** using Prophet  
-- Developed interactive dashboards and analytics reports with Streamlit and Plotly for skill demand, job postings, and company insights  
-- Designed modular backend services with Python, FastAPI, and SQLAlchemy for flexible querying and data exploration
+<p>- Built a full ETL pipeline to fetch, ingest, process, and clean job postings into a structured database</p>
+<p>- Implemented LLM-based skill extraction using OpenAI GPT-4o-mini and Google Gemini to identify in-demand skills from job descriptions</p>
+<p>- Aggregated weekly skill demand, computed salary statistics, and forecasted trends using Prophet</p>
+<p>- Developed interactive dashboards and analytics reports with Streamlit and Plotly for skill demand, job postings, and company insights</p>
+<p>- Designed modular backend services with Python, FastAPI, and SQLAlchemy for flexible querying and data exploration</p>
 
 ---
 
