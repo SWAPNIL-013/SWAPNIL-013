@@ -61,7 +61,7 @@ I build scalable Python backend systems with AI-powered features like chatbots, 
 
 ## 🚀 Projects
 
-**[AI-Powered Interview Preparation Platform](https://github.com/SWAPNIL-013/ai-interview-platform)**  
+**[AI-Powered Interview Preparation Platform](https://github.com/SWAPNIL-013/ai-interview-prep-platform)**  
 <p>
 <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
 <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi" />
